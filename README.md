@@ -46,10 +46,10 @@ Before running the script, ensure that you have the following installed:
     ```
 
 3. **Set up account data**:
-    Add your Major query id into `data.txt`, one per line:
+    Add your Major account authentication data into `data.txt`, one per line:
     ```
-    query_id
-    query_id
+    account_data_1
+    account_data_2
     ```
 
 4. **Set up Durov choices** (Optional):
@@ -104,3 +104,12 @@ The bot processes each account and performs the following tasks in sequence:
 Contributions
 
 Feel free to submit issues or pull requests to improve the project. Contributions are welcome!
+
+License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+### How to Use:
+
+1. **Customize the `README.md`** if necessary by adding more details specific to your usage or personal preferences.
+2. **Push your project** to GitHub along with this `README.md` file.
