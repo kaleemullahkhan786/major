@@ -46,10 +46,10 @@ Before running the script, ensure that you have the following installed:
     ```
 
 3. **Set up account data**:
-    Add your Major account authentication data into `data.txt`, one per line:
+    Add your Major account authentication query into `data.txt`, one per line:
     ```
-    account_data_1
-    account_data_2
+    query_idxxxxxxxxx
+    query_idxxxxxxxxx
     ```
 
 4. **Set up Durov choices** (Optional):
