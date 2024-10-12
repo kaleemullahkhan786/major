@@ -35,8 +35,8 @@ Before running the script, ensure that you have the following installed:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/kaleemullahkhan786/major-automation-bot.git
-    cd major-automation-bot
+    git clone https://github.com/kaleemullahkhan786/major.git
+    cd major
     ```
 
 2. **Install dependencies**:
